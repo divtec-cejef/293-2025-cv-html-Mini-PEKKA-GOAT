@@ -25,3 +25,10 @@ a {
 a:hover {
     color: darkmagenta;
 }
+
+.avatar{
+    max-width: 200px;
+}
+
+
+
