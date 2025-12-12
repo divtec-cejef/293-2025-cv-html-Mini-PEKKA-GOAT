@@ -26,9 +26,17 @@ a:hover {
     color: darkmagenta;
 }
 
-.avatar{
+.avatar {
     max-width: 200px;
 }
 
+/* ——— AJOUTE À PARTIR D'ICI ——— */
 
+main {
+    margin-bottom: 40px; /* marge sous le main */
+}
 
+footer {
+    border-top: 2px solid #ccc; /* ligne séparatrice */
+    padding-top: 20px;          /* espace au-dessus du texte */
+}
