@@ -29,16 +29,5 @@
   ...
 </section>
 ```
-
-## D) Footer : ajouter l’e-mail (conforme à l’exercice)
-- Le footer doit contenir `&copy;2025` + votre e-mail cliquable
-- Exemple :
-```
-<footer>
-  &copy;2025 Valentin Allimann —
-  <a href="mailto:vava.allimann@gmail.com">vava.allimann@gmail.com</a>
-</footer>
-```
-
 ## Autres
 - Ajouter description
