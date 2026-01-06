@@ -11,8 +11,12 @@ body {
     background: linear-gradient(90deg, #8360C3, #2EBF91);
     list-style-position: inside;
     text-align: center;
-    
 }
+
+nav {
+    text-align: left;
+}
+
 h1 {
     font-family: 'Luckiest Guy', cursive;
     color: darkblue;
@@ -37,14 +41,15 @@ font-color: darkblue;
 }
 
 a {
-    color: deeppink;
+    color: orange;
     text-decoration: none;
 }
 
 a:hover {
-    color: darkmagenta;
+    color: purple;
 }
 
 .avatar{
     max-width: 200px;
+    text-align: left;
 }
