@@ -9,27 +9,19 @@ body {
     line-height: 1.4;
     color: darkblue;
     background-color: whitesmoke;
+    margin: 25px;
 }
 h1 {
     font-family: 'Luckiest Guy', cursive;
     color: turquoise;
     background-color: lightgreen;
 }
+
 img {
     max-width: 100%;
     height: auto;
     width: auto;
-}
-.competences {
-    font-size: 2rem;
-    font-color: lightblue;
-    margin: 25px;
-}
 
-.scolarite {
-font-color: darkblue;
-    margin:25px;
-}
 
 a {
     color: deeppink;
