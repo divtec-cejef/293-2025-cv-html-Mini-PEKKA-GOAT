@@ -9,6 +9,8 @@ body {
     line-height: 1.4;
     color: darkblue;
     background: linear-gradient(90deg, #8360C3, #2EBF91);
+    list-style-position: inside;
+    text-align: center;
 }
 h1 {
     font-family: 'Luckiest Guy', cursive;
