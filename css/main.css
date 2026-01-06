@@ -8,7 +8,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-color: linear-gradiant(90deg, #8360C3, #2EBF91);
+    background: linear-gradient(90deg, #8360C3, #2EBF91);
 }
 h1 {
     font-family: 'Luckiest Guy', cursive;
