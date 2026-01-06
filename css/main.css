@@ -20,6 +20,16 @@ img {
     height: auto;
     width: auto;
 }
+.competences {
+    font-size: 2rem;
+    font-color: lightblue;
+    margin: 25px;
+}
+
+.scolarite {
+font-color: darkblue;
+    margin:25px;
+}
 
 a {
     color: deeppink;
