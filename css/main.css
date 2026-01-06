@@ -8,19 +8,20 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-color: whitesmoke;
-    margin: 25px;
+    background-color: orange;
+    
 }
 h1 {
     font-family: 'Luckiest Guy', cursive;
-    color: turquoise;
-    background-color: lightgreen;
+    color: darkblue;
+    background-color: turquoise;
 }
 
 img {
     max-width: 100%;
     height: auto;
     width: auto;
+}
 
 
 a {
