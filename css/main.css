@@ -10,7 +10,10 @@ body {
     color: darkblue;
     background-color: whitesmoke;
 }
-
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: turquoise;
+    background-color: lightgreen;
 img {
     max-width: 100%;
     height: auto;
