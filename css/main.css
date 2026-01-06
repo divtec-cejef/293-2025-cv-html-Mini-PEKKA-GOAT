@@ -47,9 +47,11 @@ a {
 
 a:hover {
     color: purple;
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 .avatar{
     max-width: 200px;
-    text-align: left;
+    float: left;
 }
