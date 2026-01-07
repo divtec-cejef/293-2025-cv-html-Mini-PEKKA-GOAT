@@ -41,7 +41,7 @@ font-color: darkblue;
 }
 
 a {
-    color: orange;
+    color: darkgreen;
     text-decoration: none;
 }
 
@@ -53,4 +53,5 @@ a:hover {
 
 .avatar{
     max-width: 200px;
+    
 }
