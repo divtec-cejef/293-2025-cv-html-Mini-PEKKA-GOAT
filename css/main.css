@@ -15,6 +15,7 @@ body {
 
 nav {
     text-align: left;
+    font-weight: bold;
 }
 
 h1 {
@@ -32,12 +33,10 @@ img {
 .competences {
     font-size: 2rem;
     font-color: lightblue;
-    margin: 25px;
 }
 
 .scolarite {
 font-color: darkblue;
-    margin:25px;
 }
 
 a {
@@ -51,7 +50,7 @@ a:hover {
     font-weight: bold;
 }
 
-.avatar{
+.avatar {
     max-width: 200px;
     
 }
