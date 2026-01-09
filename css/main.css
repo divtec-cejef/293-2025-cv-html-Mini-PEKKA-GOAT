@@ -23,7 +23,7 @@ h1 {
     font-family: 'Luckiest Guy', cursive;
     color: #0B0B45;
     background-color: White;
-    border: 8px solid blue; /* épaisseur, style, couleur */
+    border: 6px solid black; /* épaisseur, style, couleur */
     padding: 10px;
 }
 
@@ -61,5 +61,5 @@ a:hover {
 .avatar {
     max-width: 200px;
     text-align: center;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    box-shadow: 7px 7px 21px rgba(0, 0, 0, 0.3);
 }
