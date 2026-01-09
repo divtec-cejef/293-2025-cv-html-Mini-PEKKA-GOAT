@@ -13,7 +13,7 @@ body {
     max-width: 800px;
 }
 
-nav {
+.menu nav {
     text-align: left;
     font-weight: bold;
 }
