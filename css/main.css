@@ -16,6 +16,10 @@ body {
  margin-left: 30%;
 }
 
+.menu {
+    text-align: left,
+        }
+
 nav {
     text-align: left;
     font-weight: bold;
@@ -31,15 +35,6 @@ img {
     max-width: 100%;
     height: auto;
     width: auto;
-}
-
-.competences {
-    font-size: 2rem;
-    font-color: lightblue;
-}
-
-.scolarite {
-font-color: darkblue;
 }
 
 a {
