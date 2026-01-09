@@ -10,6 +10,7 @@ body {
     color: #0B0B45;
     background: linear-gradient(90deg, #009FFF, #EC2F4B);
     list-style-position: inside;
+    max-width: 800px;
 }
 
 nav {
@@ -26,6 +27,8 @@ h1 {
     font-family: 'Luckiest Guy', cursive;
     color: #0B0B45;
     background-color: White;
+    border: 2px solid blue; /* épaisseur, style, couleur */
+    padding: 10px;
 }
 
 img {
@@ -61,6 +64,6 @@ a:hover {
 
 .avatar {
     max-width: 200px;
-    text-aligne: center;
-    
+    text-align: center;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
 }
