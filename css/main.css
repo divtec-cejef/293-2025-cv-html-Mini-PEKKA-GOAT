@@ -10,7 +10,7 @@ body {
     color: #0B0B45;
     background: linear-gradient(90deg, #009FFF, #EC2F4B);
     list-style-position: inside;
-    text-align: center;
+    text-align: left;
 }
 
 nav {
