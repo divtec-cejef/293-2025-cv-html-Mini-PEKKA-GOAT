@@ -30,13 +30,10 @@ img {
     width: auto;
 }
 
-.competences {
-    font-size: 2rem;
-    font-color: lightblue;
-}
-
-.scolarite {
-font-color: darkblue;
+ul {
+    margin-left: 25%;
+    margin-right: 25%;
+    
 }
 
 a {
