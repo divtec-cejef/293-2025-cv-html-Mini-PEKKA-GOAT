@@ -17,6 +17,10 @@ nav {
     font-weight: bold;
 }
 
+.menu {
+    text-align: center;
+}
+
 h1 {
     text-align:center;
     font-family: 'Luckiest Guy', cursive;
