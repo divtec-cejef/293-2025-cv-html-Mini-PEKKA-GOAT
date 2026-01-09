@@ -18,16 +18,12 @@ nav {
     font-weight: bold;
 }
 
-.menu {
-    text-align: left;
-}
-
 h1 {
     text-align:center;
     font-family: 'Luckiest Guy', cursive;
     color: #0B0B45;
     background-color: White;
-    border: 2px solid blue; /* épaisseur, style, couleur */
+    border: 8px solid blue; /* épaisseur, style, couleur */
     padding: 10px;
 }
 
