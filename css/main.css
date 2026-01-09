@@ -10,41 +10,39 @@ body {
     color: #0B0B45;
     background: linear-gradient(90deg, #009FFF, #EC2F4B);
     list-style-position: inside;
+    text-align: center;
 }
 
 .marge {
- margin-left: 30%;
-}
-
-.menu {
-    text-align: left,
-    padding: 20px;
+max-width: 420px; 
+  margin-left: 35%; 
+  padding-left: 20px;;  
 }
 
 nav {
     text-align: left;
     font-weight: bold;
-    padding: 10px;
 }
 
 h1 {
     font-family: 'Luckiest Guy', cursive;
     color: #0B0B45;
     background-color: White;
-    text-align:center
-    margin: 0;
-    padding: 20px 0,
-    border-radius: 10px;
-    margin-bottom: 30px;
-    width: 70%;
-    margin-left: auto;
-    margin-right: right;
 }
 
 img {
     max-width: 100%;
     height: auto;
     width: auto;
+}
+
+.competences {
+    font-size: 2rem;
+    font-color: lightblue;
+}
+
+.scolarite {
+font-color: darkblue;
 }
 
 a {
@@ -61,25 +59,4 @@ a:hover {
 .avatar {
     max-width: 200px;
     
-}
-
-nav ul {
-    padding-left: 0; 
-}
-
-nav ul li {
-    list-style-type: none; 
-    margin-bottom: 10px; 
-
-nav ul li a {
-    color: darkred;
-    text-decoration: none;
-    font-weight: bold;
-    font-size: 1.2rem;
-}
-
-nav ul li a:hover {
-    color: purple;
-    text-decoration: underline;
-    font-weight: bold;
 }
