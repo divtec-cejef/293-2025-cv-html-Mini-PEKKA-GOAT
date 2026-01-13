@@ -11,6 +11,7 @@ body {
     background: linear-gradient(90deg, #009FFF, #EC2F4B);
     list-style-position: inside;
     max-width: 800px;
+    margin: 0 auto;
 }
 
 .menu {
@@ -21,7 +22,7 @@ nav {
     text-align: left;
     font-weight: bold;
 }
-
+00
 @font-face {
   font-display: swap;
   font-family: 'Luckiest Guy';
@@ -37,6 +38,11 @@ h1 {
     background-color: White;
     border: 6px solid black; /* épaisseur, style, couleur */
     padding: 10px;
+    font-size: 36px;
+    background-image: url("../img/photo_TBCD_pour_CV.html");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 img {
@@ -47,6 +53,7 @@ img {
 
 h2 {
     text-align: center;
+    font-size: 1.5em;
 }
 
 h3 {
@@ -74,4 +81,10 @@ a:hover {
     max-width: 200px;
     text-align: center;
     box-shadow: 7px 7px 21px rgba(0, 0, 0, 0.3);
+}
+
+footer {
+margin-top: 40px;
+padding: 20px;
+text-align: center;
 }
